@@ -12,7 +12,7 @@
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[About](#about) • [Features](#features) • [Screenshots](#screenshots) • [Tech Stack](#tech-stack) • [Contact](#contact)
+[About](#about) • [Features](#features) • [Screenshots](#screenshots) • [Tech Stack](#tech-stack)
 
 </div>
 
@@ -113,6 +113,7 @@ Every pixel, interaction, and animation is crafted to evoke nostalgia while deli
 
 ![](https://img.shields.io/badge/Applications-F38181?style=for-the-badge)
 
+- **Görkem Exchange** - Crypto trading platform
 - **Terminal** - Command-line interface
 - **Calculator** - Standard operations
 - **File Manager** - Browse files
@@ -165,22 +166,30 @@ Every pixel, interaction, and animation is crafted to evoke nostalgia while deli
 <table>
 <tr>
 <td width="50%">
-<img src="./screenshots/gamescreen.png" alt="Games" width="100%"/>
-<p align="center"><b>Built-in Games</b></p>
-</td>
+<img src="./screenshots/chart.png" alt="Chart" width="100%"/>
+<p align="center"><b>Exchange Application</b></p>
+<td width="50%">
+<img src="./screenshots/gorkemexchange.png" alt="Görkem Exchange" width="100%"/>
+<p align="center"><b>Görkem Exchange - Crypto Trading</b></p>
+</tr>
+<tr>
 <td width="50%">
 <img src="./screenshots/projectscreendetail.png" alt="Projects" width="100%"/>
 <p align="center"><b>Project Showcase</b></p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <img src="./screenshots/personalizescreen.png" alt="Customization" width="100%"/>
 <p align="center"><b>Theme Customization</b></p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <img src="./screenshots/terminalscreen.png" alt="Terminal" width="100%"/>
 <p align="center"><b>Terminal Application</b></p>
+</td>
+<td width="50%">
+<img src="./screenshots/gamescreen.png" alt="Games" width="100%"/>
+<p align="center"><b>Built-in Games</b></p>
 </td>
 </tr>
 </table>
@@ -222,6 +231,135 @@ Every pixel, interaction, and animation is crafted to evoke nostalgia while deli
 </table>
 
 </details>
+
+</div>
+
+---
+
+## 🚀 Görkem Exchange - Cryptocurrency Trading Platform
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="./screenshots/gorkemexchange.png" alt="Görkem Exchange Main" width="100%"/>
+<p align="center"><i>Main trading interface with real-time market data</i></p>
+</td>
+<td width="50%">
+<img src="./screenshots/chart.png" alt="Advanced Charts" width="100%"/>
+<p align="center"><i>Interactive price charts and technical analysis</i></p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/Real--Time_Data-FFD700?style=for-the-badge)
+
+Live cryptocurrency prices  
+WebSocket integration  
+Instant market updates  
+Multiple trading pairs  
+Order book depth
+
+</td>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/Custom_Charts-00D9FF?style=for-the-badge)
+
+Custom chart library  
+Multiple timeframes  
+Technical indicators  
+Price history tracking  
+Candlestick patterns
+
+</td>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/Trading_Features-FF6B6B?style=for-the-badge)
+
+Buy/Sell orders  
+Portfolio tracking  
+Transaction history  
+Market analysis  
+Price alerts
+
+</td>
+<td width="25%" align="center">
+
+![](https://img.shields.io/badge/Theme_Integration-9370DB?style=for-the-badge)
+
+All retro themes supported  
+Dark/Light mode  
+Responsive design  
+Retro UI elements  
+System 7 aesthetics
+
+</td>
+</tr>
+</table>
+
+**About Görkem Exchange:**  
+A fully functional cryptocurrency exchange platform seamlessly integrated into the retro desktop environment. Built with modern web technologies while maintaining the nostalgic System 7 aesthetic. Features real-time market data, interactive charts, and professional trading tools - all wrapped in a vintage computing experience.
+
+<br>
+
+**Technical Highlights:**
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+![](https://img.shields.io/badge/⚡_WebSocket-FFD700?style=for-the-badge)
+
+Real-time connections  
+Live price updates  
+Instant data sync
+
+</td>
+<td width="20%" align="center">
+
+![](https://img.shields.io/badge/📊_Custom_Charts-00D9FF?style=for-the-badge)
+
+No third-party libs  
+Built from scratch  
+Full control
+
+</td>
+<td width="20%" align="center">
+
+![](https://img.shields.io/badge/📱_Responsive-FF6B6B?style=for-the-badge)
+
+Mobile-friendly  
+Touch optimized  
+All screen sizes
+
+</td>
+<td width="20%" align="center">
+
+![](https://img.shields.io/badge/🎨_Theme_Ready-9370DB?style=for-the-badge)
+
+All themes supported  
+Color schemes  
+Perfect integration
+
+</td>
+<td width="20%" align="center">
+
+![](https://img.shields.io/badge/🚀_Performance-4ECDC4?style=for-the-badge)
+
+Fast & smooth  
+60fps animations  
+Optimized code
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -312,23 +450,6 @@ Seamless language switching
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-levantedev-181717?style=for-the-badge&logo=github)](https://github.com/levantedev)
-
-<img src="https://komarev.com/ghpvc/?username=levantedev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-<br><br>
-
-[![Star this repo](https://img.shields.io/github/stars/levantedev/GorkemOS-Portfolio?style=social)](https://github.com/levantedev/GorkemOS-Portfolio)
-[![Follow](https://img.shields.io/github/followers/levantedev?style=social)](https://github.com/levantedev)
 
 </div>
 
